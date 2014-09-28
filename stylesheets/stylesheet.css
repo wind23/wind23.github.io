@@ -133,6 +133,7 @@ aside#sidebar p.repo-owner a {
 }
 
 a.pagelink {
+  margin-right: 40px;
   font-size: 26px;
   color: #9ddcff;
   font-weight: normal;
