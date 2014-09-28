@@ -1,4 +1,4 @@
-# Architect theme
+# Homepage
 
 This is my jekyll homepage, which is based on the Architect theme of pietromenna.
 
