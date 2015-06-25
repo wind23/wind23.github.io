@@ -1,5 +1,5 @@
 {
-	"version":"1.0.2",
-	"url":"/download/SlowRenju_Mobile_1_0_2.apk",
-	"content":"初始版本"
+	"version":"1.0.3",
+	"url":"/download/SlowRenju_Mobile_1_0_3.apk",
+	"content":"1. 增加了棋局分析状态的显示；2. 修复了Hash表中的bug；3. 优化了棋子的显示效果。"
 }
