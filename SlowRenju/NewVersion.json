@@ -1,7 +1,7 @@
 {
-	"version":"1.0.7.6",
-	"url":"/download/SlowRenju_Mobile_1_0_7.apk",
-	"content":"1. Keeping the status of the game after the program exits.<br/>2. Able to enlarge the board when making a move.<br/>3. Fixing some small bugs.",
-	"content_en":"1. Keeping the status of the game after the program exits.<br/>2. Able to enlarge the board when making a move.<br/>3. Fixing some small bugs.",
-	"content_zh":"1. 程序退出时可以保留盘面状态。<br/>2. 落子时可以放大棋盘。<br/>3. 修复了一些小的bug。"
+	"version":"1.0.8",
+	"url":"/download/SlowRenju_Mobile_1_0_8.apk",
+	"content":"1. Speeding up the computation.<br/>2. Fixing a bug at the opening stage.",
+	"content_en":"1. Speeding up the computation.<br/>2. Fixing a bug at the opening stage.",
+	"content_zh":"1. 计算速度有所提高。<br/>2. 修复了开局阶段的一个bug。"
 }
