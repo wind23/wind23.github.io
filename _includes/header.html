@@ -1,0 +1,13 @@
+    <header>
+      <div class="inner">
+        <h1> {{ site.name }} </h1>
+      </div>
+
+        <div class="inner" id="pagelink-wrapper">
+          {% for page in site.pages %}
+            {% if page.title %}
+              <a class="pagelink" href="{{ page.url | prepend: site.baseurl }}">{% if page.label %}{{ page.label }}{% else %}{{ page.title }}{% endif %}</a>
+            {% endif %}
+          {% endfor %}
+        </div>
+    </header>
