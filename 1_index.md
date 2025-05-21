@@ -18,6 +18,7 @@ Publications
 1. __Tianyi Hao__, Jingbo Zhou, Yunsheng Cheng, Longbo Huang and Haishan Wu. [User Identification in Cyber-Physical Space: a Case Study on Mobile Query Logs and Trajectories](https://dl.acm.org/doi/10.1145/2996913.2997017). _Proceedings of the 24th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL)_, Nov 2016. (Short Paper) \[[PDF]({{ "/documents/user2016hao_sigspatial.pdf" | prepend: site.baseurl }})\]
 2. __Tianyi Hao__ and Longbo Huang. [A Social Interaction Activity based Time-Varying User Vectorization Method for Online Social Networks](https://www.ijcai.org/Proceedings/2018/527). _Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI)_, July 2018. \[[PDF]({{ "/documents/social2018hao_ijcai.pdf" | prepend: site.baseurl }})\]
 3. __Tianyi Hao__, Jingbo Zhou, Yunsheng Cheng, Longbo Huang and Haishan Wu. [A Unified Framework for User Identification across Online and Offline Data](https://ieeexplore.ieee.org/document/9109722). _IEEE Transactions on Knowledge and Data Engineering (TKDE)_, June 2020. \[[PDF]({{ "/documents/unified2020hao_tkde.pdf" | prepend: site.baseurl }})\]
+4. Hang Fan, Xiaoyu Fan, Wei Wei, __Tianyi Hao__, Kun Chen, Guosai Wang, Wei Xu. [Privacy Preserving Ultra-short-term Prediction in Clustered Wind Farms with Encrypted Data Sharing: a Secure Multi-party Computation Approach](https://www.sciencedirect.com/science/article/abs/pii/S0957417425008401). _Expert Systems with Applications (ESWA)_, June 2025.
 
 Awards
 ======

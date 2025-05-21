@@ -31,6 +31,9 @@ Career
 * 4th place, Kawamura Cup 2021 (online)
 * 23rd place, Anji World Renju Open 2023
 * 8th place, Beijing Championship 2023
+* 7th place, “International Olympic Day” Beijing Renju Tournament 2024
+* 22nd place, Beijing Championship 2024
+* 5th place, 2nd Commemorative competition in memory of Tunnet Taimla
 
 Public Services
 ===============
